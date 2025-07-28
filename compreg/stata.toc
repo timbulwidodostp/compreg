@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p compreg Estimate a compositional regression with isometric log-ratio (ILR) transformation of the components Use compreg With STATA 19
